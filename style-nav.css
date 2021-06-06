@@ -1,10 +1,5 @@
 .navigation-wrapper {
-
-}
-
-.navigation-wrapper > .left-column {
-
-}
+    background-color: darkGray;
 
 .navigation-wrapper > .left-column > .icon {
 
@@ -30,10 +25,20 @@
 
 }
 
+.navigation-wrapper > .links-wrapper {
+
+}
+
+.navigation-wrapper > .links-wrapper > .nav-links {
+
+}
+
 .navigation-wrapper > .right-column {
 
 }
 
-.navigation-wrapper > .right-column > .icon {
+.navigation-wrapper > .right-column > .address-wrapper {
 
 }
+
+.navigation-wrapper > .right-column > .contact-icon
