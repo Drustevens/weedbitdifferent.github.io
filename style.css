@@ -1,0 +1,10 @@
+.hero-section {
+    background-image: url(https://dm2306files.storage.live.com/y4mZ8WDSzW6MJwyDeny1bloqHMKvHpUp2_Kty6nOJ7Ag5PlfSvxsLmxY5WS6qeBt4CGVTx1DR_lqC2bAvWhoY-2pxKWGjirXTHxPh9fB_jpClcjc1_DZf1TWptKT9E2dEx3v3Prk3ZvfMJi0b4ko0D3M_4o5kYwdurQ-tUUcZWUmuSQc9m0dA4-K8s4sN953EAG?width=3264&height=1836&cropmode=none);
+    color: white;
+    padding: 100px;
+    height: 300px;
+    background-attachment: fixed;
+    background=position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
