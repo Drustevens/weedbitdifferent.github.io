@@ -1,14 +1,10 @@
 .navigationWrapper {
     background-color: teal;
-    color: white;
     display: flex;
-
-
-
 }
 
 .navigationWrapper > .leftColumn > .icon {
-    flex: column;
+
 }
 
 .navigationWrapper > .contactHoursWrapper {
