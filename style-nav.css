@@ -1,7 +1,10 @@
 .navigationWrapper {
     height: 125px;
-    background-color: teal;
     display: flex;
+    background: linear-gradient(
+        firebrick,
+        purple
+);
 }
 
 .navigationWrapper > .leftColumn > .icon {
