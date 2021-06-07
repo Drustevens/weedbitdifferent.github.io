@@ -1,4 +1,4 @@
-.hero-section {
+.heroSection {
     background-image: url(https://dm2306files.storage.live.com/y4m_CQclEJ_vASGadfdXoGqIEzJqPZdm_24idvasYUsO0V-JrwHMII-UkRwbbDodf3kOOfNOJUMUoZb5lSYGrjUb95WXgq3-Fq51yMYUtwLK3G9tZY5_dfydfHWHVYqsIfefy28iIEzSF-HZepWS8O_uWVFhfEIKoNHdXmNsPcO_OIXPAKojhMsWpbJcGws7MDK?width=3264&height=1836&cropmode=none);
     color: white;
     padding: 100px;
@@ -9,3 +9,11 @@
     background-size: cover;
 }
 
+.bottomHeading {
+    border-color: teal;
+    border: 1px solid;
+}
+
+.topHeading {
+
+}

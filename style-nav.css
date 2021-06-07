@@ -1,44 +1,47 @@
-.navigation-wrapper {
-    background-color: darkGray;
+.navigationWrapper {
+    background-color: teal;
+    color: white;
 
-.navigation-wrapper > .left-column > .icon {
-
-}
-
-.navigation-wrapper > .contact-hours-wrapper {
+.navigationWrapper > .leftColumn > .icon {
 
 }
 
-.navigation-wrapper > contact-hours-wrapper > .phone {
+.navigationWrapper > .contactHoursWrapper {
 
 }
 
-.navigation-wrapper > .hours {
+.navigation-wrapper > contactHoursWrapper > .phone {
 
 }
 
-.navigation-wrapper > .center-column {
+.navigationWrapper > .hours {
 
 }
 
-.navigation-wrapper > .center-column > .banner-image {
+.navigationWrapper > .centerColumn {
 
 }
 
-.navigation-wrapper > .links-wrapper {
+.navigationWrapper > .centerColumn > .bannerImage {
 
 }
 
-.navigation-wrapper > .links-wrapper > .nav-links {
+.navigationWrapper > .linksWrapper {
 
 }
 
-.navigation-wrapper > .right-column {
+.navigationWrapper > .linksWrapper > .navLinks {
 
 }
 
-.navigation-wrapper > .right-column > .address-wrapper {
+.navigationWrapper > .rightColumn {
 
 }
 
-.navigation-wrapper > .right-column > .contact-icon
+.navigationWrapper > .rightColumn > .addressWrapper {
+
+}
+
+.navigation-wrapper > .rightolumn > .contactIcon {
+
+}
