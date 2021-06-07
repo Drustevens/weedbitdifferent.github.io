@@ -1,4 +1,5 @@
 .navigationWrapper {
+    height: 125px;
     background-color: teal;
     display: flex;
 }
