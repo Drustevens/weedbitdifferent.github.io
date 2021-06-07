@@ -17,7 +17,7 @@
     background-image: url(https://dm2306files.storage.live.com/y4mEZYLUf-KfeT1q2gBGnDqDfibzcp9puduSuPGMYNpjU1xaAZCBE98t13mqyUrc-b9z8AjoGW42FmezE97XMJ5svs2hculfoyVb2tJLtP86UittOlhF9QOivPmr-vP7g_3CoNFQI4pPYYejYJVjvy3tV6cps7fUDfapgdhuLN44hXFZi0fJSV7J7JZNeo8cWWt?width=1776&height=1184&cropmode=none);
     color: white;
     padding: 100px;
-    height: 300px;
+    height: 600px;
     background-attachment: fixed;
     background=position: center;
     background-repeat: no-repeat;
@@ -28,7 +28,7 @@
     background-image: url(https://dm2306files.storage.live.com/y4mlnXryvW1I8Dqvwmn9VFYB3VvGtFQ62n-2m_X9kqOde2V6-H7OQEEj-3MtCeC5IT4D6tCen7i-6hpLLV0Mvz6xfoqWMwalmyaUSDwxJ10h5qcfMuushXrlzO3Hf_qvkajz5_i9mBVySrZXodLTfNAaeCJhar03EcmxbpOlLu7AKFv1UG9_YNOO3DO3w5gSPK4?width=3264&height=1836&cropmode=none);
     color: white;
     padding: 100px;
-    height: 300px;
+    height: 600px;
     background-attachment: fixed;
     background=position: center;
     background-repeat: no-repeat;
@@ -39,7 +39,7 @@
     background-image: url(https://dm2306files.storage.live.com/y4mHjrU9B2jD6imlPoQ1HePy3SRmS2SxoOcMl-CJnqCjs_49mp8bFK9ZFfCpuoEpciBCVwXYd1wQh2f_fHwSfmqW5ZUJKsGRvap5JDUYx2mUWU3ZaYTTpyrMcSKVyZ_lBuHdVgw6KsaqSBZ01id7bAoUzYsQekPpnDHBqXtl6N42yZKaOMc0WuYUnNCDFPX8N1z?width=3264&height=1836&cropmode=none);
     color: white;
     padding: 100px;
-    height: 300px;
+    height: 600px;
     background-attachment: fixed;
     background=position: center;
     background-repeat: no-repeat;
@@ -47,7 +47,7 @@
 }
 
 .topHeading {
-    width: 150;
+    width: 75;
     height: auto;
     border-color: cyan;
     border: 1px solid teal;
@@ -67,7 +67,7 @@
         firebrick,
         purple
 );
-    width: 75;
+    width: 50;
     height: auto;
     border-color: cyan;
     border: 1px solid teal;
