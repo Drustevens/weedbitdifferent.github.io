@@ -2,10 +2,10 @@
     background-color: teal;
     color: white;
     display: flex;
-    justify-content: center
 }
 
 .navigationWrapper > .leftColumn > .icon {
+    display: flex;
 
 }
 
