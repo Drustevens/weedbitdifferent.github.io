@@ -1,8 +1,9 @@
 .heroSection1 {
+    display: flex;
     background-image: url(https://dm2306files.storage.live.com/y4m_CQclEJ_vASGadfdXoGqIEzJqPZdm_24idvasYUsO0V-JrwHMII-UkRwbbDodf3kOOfNOJUMUoZb5lSYGrjUb95WXgq3-Fq51yMYUtwLK3G9tZY5_dfydfHWHVYqsIfefy28iIEzSF-HZepWS8O_uWVFhfEIKoNHdXmNsPcO_OIXPAKojhMsWpbJcGws7MDK?width=3264&height=1836&cropmode=none);
     color: white;
     padding: 100px;
-    height: 300px;
+    height: 600px;
     background-attachment: fixed;
     background=position: center;
     background-repeat: no-repeat;
@@ -47,12 +48,9 @@
     width: 350px;
     border-color: teal;
     border: 1px solid teal;
-    background-color:
-    border-height: 25px;
     border-radius: 7px;
-    padding-left: 25px;
-    padding-right: 25px;
-    margin: 5px;
+    padding: 20px 20px 20px 20px;
+    margin: 5px 5px 5px 5px;
 }
 
 .bottomHeading {
@@ -63,7 +61,6 @@
     background-color:
     border-height: 25px;
     border-radius: 7px;
-    padding-left: 15px;
-    padding-right: 15px;
-    margin: 5px;
+    padding: 20px 20px 20px 20px;
+    margin: 5px 5px 5px 5px;
 }
