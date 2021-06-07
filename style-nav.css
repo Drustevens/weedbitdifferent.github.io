@@ -2,18 +2,20 @@
     background-color: teal;
     color: white;
     display: flex;
+
+
+
 }
 
 .navigationWrapper > .leftColumn > .icon {
-    display: flex;
-
+    flex: column;
 }
 
 .navigationWrapper > .contactHoursWrapper {
 
 }
 
-.navigationWpper > contactHoursWrapper > .phone {
+.navigationWrapper > contactHoursWrapper > .phone {
 
 }
 
