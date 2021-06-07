@@ -9,6 +9,39 @@
     background-size: cover;
 }
 
+.heroSection2 {
+    background-image: url(https://dm2306files.storage.live.com/y4mox5mUN68K4SCydiprHC2QJvdSvBiMl6dD3I4s3TbwTWpR-O_FqEmQPq-voL8RWdE7IHYxpZgmoKTBleHh3-9VXP1H7rYasxZkIetl0d_0f9XJ6eazyH_SJPpncKzqA73o6HtcynikComAsXKG8uCJAgp8UvIsxc4kJvJ-ML-N1Tt7Fc1IZhvlEDt5TVfbxX7?width=3264&height=1836&cropmode=none);
+    color: white;
+    padding: 100px;
+    height: 300px;
+    background-attachment: fixed;
+    background=position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heroSection3 {
+    background-image: url(https://dm2306files.storage.live.com/y4mlnXryvW1I8Dqvwmn9VFYB3VvGtFQ62n-2m_X9kqOde2V6-H7OQEEj-3MtCeC5IT4D6tCen7i-6hpLLV0Mvz6xfoqWMwalmyaUSDwxJ10h5qcfMuushXrlzO3Hf_qvkajz5_i9mBVySrZXodLTfNAaeCJhar03EcmxbpOlLu7AKFv1UG9_YNOO3DO3w5gSPK4?width=3264&height=1836&cropmode=none);
+    color: white;
+    padding: 100px;
+    height: 300px;
+    background-attachment: fixed;
+    background=position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heroSection4 {
+    background-image: url(https://dm2306files.storage.live.com/y4mHjrU9B2jD6imlPoQ1HePy3SRmS2SxoOcMl-CJnqCjs_49mp8bFK9ZFfCpuoEpciBCVwXYd1wQh2f_fHwSfmqW5ZUJKsGRvap5JDUYx2mUWU3ZaYTTpyrMcSKVyZ_lBuHdVgw6KsaqSBZ01id7bAoUzYsQekPpnDHBqXtl6N42yZKaOMc0WuYUnNCDFPX8N1z?width=3264&height=1836&cropmode=none);
+    color: white;
+    padding: 100px;
+    height: 300px;
+    background-attachment: fixed;
+    background=position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .bottomHeading {
     border-color: teal;
     border: 1px solid;

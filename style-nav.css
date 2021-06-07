@@ -1,6 +1,7 @@
 .navigationWrapper {
     background-color: teal;
     color: white;
+}
 
 .navigationWrapper > .leftColumn > .icon {
 
@@ -42,6 +43,6 @@
 
 }
 
-.navigation-wrapper > .rightolumn > .contactIcon {
+.navigationWrapper > .rightColumn > .contactIcon {
 
 }
