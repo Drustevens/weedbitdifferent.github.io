@@ -1,6 +1,8 @@
 .navigationWrapper {
     background-color: teal;
     color: white;
+    display: flex;
+    justify-content: center
 }
 
 .navigationWrapper > .leftColumn > .icon {
@@ -11,7 +13,7 @@
 
 }
 
-.navigation-wrapper > contactHoursWrapper > .phone {
+.navigationWpper > contactHoursWrapper > .phone {
 
 }
 
